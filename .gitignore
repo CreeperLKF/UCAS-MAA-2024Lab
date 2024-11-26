@@ -1,0 +1,15 @@
+# Folders
+
+/.vscode
+
+# Binary
+
+*.o
+QRDecomposition
+*.zip
+
+# Text
+
+*.txt
+main.cpp
+LinearSolver.hpp
